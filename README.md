@@ -20,9 +20,9 @@
 | 第3週	| 9/26 | 中秋節放假 |
 | 第4週	| 10/9 |  國慶日彈性補假 |
 | 第5週	| 10/16 |  Behavioral Modeling (2/2): Agent-based modeling | [HW5](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/05_Behavioral%20Modeling%20(2-2)%20Agent-based%20modeling/05_exercises.ipynb)
-| 第6週	| 10/23 | Computational Cognitive Science | [HW6](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/tree/main/06_Computational%20Cognitive%20Science)
+| 第6週	| 10/23 | Computational Cognitive Science | [HW6](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/tree/main/06_Computational%20Cognitive%20Science/06_exercises.ipynb)
 | 第7週	| 10/30 | Computational Cognitive Neuroscience (1/3): Modeling principles & canonical neural computation  |
-| 第8週	| 11/6 | Computational Cognitive Neuroscience (2/3): Overview of learning & memory  |
+| 第8週	| 11/6 | Computational Cognitive Neuroscience (2/3): Overview of learning & memory  | [HW8](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/08_Computational%20Cognitive%20Neuroscience%20(2-3)%20Neural%20Networks/08_exercises.ipynb)
 | 第9週	| 11/13 | Computational Cognitive Neuroscience (3/3): Local learning & memory |
 | 第10週 | 11/20 | 台大運動會(停課) |
 | 第11週 | 11/27 | Deep-learning Neural Networks (1/5): Fully-Connected Multilayer Perceptron (MLP) |
