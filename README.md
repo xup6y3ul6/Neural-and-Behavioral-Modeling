@@ -23,9 +23,9 @@
 | 第6週	| 10/23 | Computational Cognitive Science | [HW6](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/tree/main/06_Computational%20Cognitive%20Science/06_exercises.ipynb)
 | 第7週	| 10/30 | Computational Cognitive Neuroscience (1/3): Modeling principles & canonical neural computation  |
 | 第8週	| 11/6 | Computational Cognitive Neuroscience (2/3): Overview of learning & memory  | [HW8](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/08_Computational%20Cognitive%20Neuroscience%20(2-3)%20Neural%20Networks/08_exercises.ipynb)
-| 第9週	| 11/13 | Computational Cognitive Neuroscience (3/3): Local learning & memory |
+| 第9週	| 11/13 | Computational Cognitive Neuroscience (3/3): Local learning & memory | [HW9](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/09_Computational%20Cognitive%20Neuroscience%20(3-3)%20Neural%20Networks/09_exercises.ipynb)
 | 第10週 | 11/20 | 台大運動會(停課) |
-| 第11週 | 11/27 | Deep-learning Neural Networks (1/5): Fully-Connected Multilayer Perceptron (MLP) |
+| 第11週 | 11/27 | Deep-learning Neural Networks (1/5): Fully-Connected Multilayer Perceptron (MLP) | [HW11](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/11_Deep-learning%20Neural%20Networks%20(1-4)%20Fully-Connected%20Multilayer%20Perceptron%20(MLP)/11_exercises.ipynb)
 | 第12週 | 12/4 | Deep-learning Neural Networks (2/5): Convolutional Neural Network (CNN) |
 | 第13週 | 12/11 | Deep-learning Neural Networks (3/5): Recurrent Neural Networks (RNN) |
 | 第14週 | 12/18 | Deep-learning Neural Networks (4/5): Deep Reinforcement Learning (RL) | 	
