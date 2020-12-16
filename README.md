@@ -27,7 +27,7 @@
 | 第10週 | 11/20 | 台大運動會(停課) |
 | 第11週 | 11/27 | Deep-learning Neural Networks (1/4): Fully-Connected Multilayer Perceptron (MLP) | [HW11](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/11_Deep-learning%20Neural%20Networks%20(1-4)%20Fully-Connected%20Multilayer%20Perceptron%20(MLP)/11_exercises.ipynb)
 | 第12週 | 12/4 | Deep-learning Neural Networks (2/4): Convolutional Neural Network (CNN) | [HW12](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/12_Deep-learning%20Neural%20Networks%20(2-4)%20Convolutional%20Neural%20Network%20(CNN)/12_exercises.ipynb)
-| 第13週 | 12/11 | Deep-learning Neural Networks (3/4): Recurrent Neural Networks (RNN) |
+| 第13週 | 12/11 | Deep-learning Neural Networks (3/4): Recurrent Neural Networks (RNN) | [HW13](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/13_Deep-learning%20Neural%20Networks%20(3-4)%20Recurrent%20Neural%20Network%20(RNN)/13_exercises.ipynb)
 | 第14週 | 12/18 | Deep-learning Neural Networks (4/4): Deep Reinforcement Learning (RL) | 	
 | 第15週 | 12/25 | Computational Neuroscience (1/2): 1 spiking neuron |
 | 第16週 | 1/1 | 開國紀念日 |
