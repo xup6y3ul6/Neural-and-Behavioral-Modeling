@@ -15,7 +15,7 @@
 
 | 週次 | 日期	| 單元主題 | HW |
 |:----:|:----:|:----:|:----:|
-| 第1週	| 9/18 | Course Introduction: Models & modeling | [HW1](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/01_Course%20Introduction_Models%20&%20modeling/01_examples.ipynb)
+| 第1週	| 9/18 | Course Introduction: Models & modeling | [HW1](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/01_Course%20Introduction_Models%20&%20modeling/01_exercises.ipynb)
 | 第2週	| 9/25 | Behavioral Modeling (1/2): System dynamics | [HW2](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/02_Behavioral%20Modeling%20(1-2)%20System%20dynamics/02_exercises.ipynb)
 | 第3週	| 9/26 | 中秋節放假 |
 | 第4週	| 10/9 |  國慶日彈性補假 |
@@ -29,7 +29,7 @@
 | 第12週 | 12/4 | Deep-learning Neural Networks (2/4): Convolutional Neural Network (CNN) | [HW12](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/12_Deep-learning%20Neural%20Networks%20(2-4)%20Convolutional%20Neural%20Network%20(CNN)/12_exercises.ipynb)
 | 第13週 | 12/11 | Deep-learning Neural Networks (3/4): Recurrent Neural Networks (RNN) | [HW13](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/13_Deep-learning%20Neural%20Networks%20(3-4)%20Recurrent%20Neural%20Network%20(RNN)/13_exercises.ipynb)
 | 第14週 | 12/18 | Deep-learning Neural Networks (4/4): Deep Reinforcement Learning (RL) | 	
-| 第15週 | 12/25 | Computational Neuroscience (1/2): 1 spiking neuron |
+| 第15週 | 12/25 | Computational Neuroscience (1/2): 1 spiking neuron | [HW15](https://github.com/xup6y3ul6/Neural-and-Behavioral-Modeling/blob/main/15_Computational%20Neuroscience%20(1-2)%201%20spiking%20neuron/15_exercises.ipynb)
 | 第16週 | 1/1 | 開國紀念日 |
 | 第17週 | 1/8 | Computational Neuroscience (2/2): N spiking neurons |
 | 第18週 |	1/15 |  |
